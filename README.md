@@ -7,7 +7,7 @@
 ### Progress
 - [x] Day 1: Classes & Objects
 - [x] Day 2: Constructors, Destructors, Copy Constructor, `this` pointer
-- [ ] Day 3: Inheritance + Access Specifiers
+- [x] Day 3: Inheritance + Access Specifiers
 - [ ] Day 4: Polymorphism
 ...
 
